@@ -411,3 +411,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream:GE1 Examples 2022/Assets/Scenes/SampleScene.unity
+=======
+--- !u!114 &2034337707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2034337704}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc29f11ed7fd0414fb6918456fb9fe6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loops: 10
+  prefab: {fileID: 2514607982071306215, guid: 7227725807811ce4c8a75109ea813118, type: 3}
+>>>>>>> Stashed changes:GE1 Examples 2022/Assets/Scenes/Lab1.unity
